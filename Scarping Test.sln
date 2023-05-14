@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scarping Test", "Scarping Test\Scarping Test.csproj", "{858F8661-19A7-41DE-BD11-36F2DAFBBF39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{858F8661-19A7-41DE-BD11-36F2DAFBBF39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{858F8661-19A7-41DE-BD11-36F2DAFBBF39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{858F8661-19A7-41DE-BD11-36F2DAFBBF39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{858F8661-19A7-41DE-BD11-36F2DAFBBF39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F5ECA13-7D3E-41EB-99EC-B5B511177E25}
+	EndGlobalSection
+EndGlobal
